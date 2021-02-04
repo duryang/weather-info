@@ -1,0 +1,13 @@
+package ps.exalt.training.gor.weatherinfo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class WeatherInfoApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(WeatherInfoApplication.class, args);
+	}
+
+}
